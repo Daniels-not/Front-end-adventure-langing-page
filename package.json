@@ -1,0 +1,25 @@
+{
+  "name": "bootstrap-landing-page-example",
+  "version": "1.0.0",
+  "description": "landing page example using bootstrap 5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daniels-not/bootstrap-landing-page.git"
+  },
+  "author": "ramy campusano volquez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Daniels-not/bootstrap-landing-page/issues"
+  },
+  "homepage": "https://github.com/Daniels-not/bootstrap-landing-page#readme",
+  "dependencies": {
+    "bootstrap": "^5.0.2",
+    "bootstrap-icons": "^1.5.0",
+    "mapbox-gl": "^2.3.1",
+    "sweetalert": "^2.1.2"
+  }
+}
